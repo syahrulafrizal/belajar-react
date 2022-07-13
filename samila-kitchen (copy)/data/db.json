@@ -1,0 +1,98 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Orek tempe pedas",
+      "ingredients": [
+        "500 gram tempe",
+        "3 sdm minyak untuk menumis",
+        "100 ml air",
+        "4 siung bawang putih, haluskan",
+        "8 buah cabai merah, haluskan",
+        "1 sdm larutan asam jawa",
+        "2 lembar daun salam",
+        "1 batang serai, memarkan",
+        "1 cm lengkuas, memarkan",
+        "2 sdm gula merah, iris tipis",
+        "1 sdt garam",
+        "Minyak goreng secukupnya"
+      ],
+      "method": "Pertama-tama potong dadu tempe, goreng hingga agak kering ya, Bunda. Angkat kemudian tiriskan. Setelah itu tumis bawang putih dan cabai merah yang telah dihaluskan sampai harum. Masukkan air dan larutan asam, daun salam, lengkuas, gula merah, dan garam. Masak hingga mendidih ya, Bunda. Tuangkan tempe yang sudah goreng ke dalamnya. Aduk sampai bumbu meresap dan mengering. Orek tempe pedas siap disajikan bersama keluarga. Santap selagi hangat ya, Bunda",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Tumis sawi",
+      "ingredients": [
+        "1 ikat sawi hijau",
+        "50 gram bawang bombai, iris kasar",
+        "2 siung bawang putih, geprek",
+        "2 sdm saus tiram",
+        "1 sdt kecap asin",
+        "100 ml kaldu ayam",
+        "Gula pasir secukupnya",
+        "Merica secukupnya"
+      ],
+      "method": "Tumis bawang bombai dan bawang putih hingga harum. Tambahkan kaldu, lalu didihkan. Masukkan saus tiram, kecap asin, gula, dan merica. Aduk lalu didihkan kembali hingga kuah cukup kental. Masukkan sawi hijau. Aduk sebentar lalu angkat dan sajikan.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Telur dadar Padang",
+      "ingredients": [
+        "4 butir telur ukuran sedang",
+        "3 sdm kelapa parut",
+        "2 batang daun bawang bawang, iris tipis- tipis",
+        "2 sdm tepung beras",
+        "Garam secukupnya",
+        "2 sdm minyak goreng",
+        "3 butir bawang merah",
+        "2 siung bawang putih",
+        "4 buah cabai merah"
+      ],
+      "method": "Kocok lepas telur, masukkan bumbu halus dan kelapa parut. Aduk rata. Tambahkan daun bawang, garam, dan tepung beras. Aduk lagi hingga rata. Panaskan minyak, lalu masukkan adonan telur. Tutup wajan, masak dengan api sedang. Setelah telur setengah matang, balik. Masak hingga matang, angkat. Potong-potong telur sesuai selera dan sajikan.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Tempe bacem",
+      "method": "Panaskan minyak, lalu goreng tempe hingga berwarna kuning keemasan. Angkat dan tiriskan.",
+      "cookingTime": "30 minutes",
+      "ingredients": [
+        "4 keping tempe",
+        "1 sdm ketumbar"
+      ],
+      "id": "Cw5BvUC"
+    },
+    {
+      "title": "Tumis tauge wortel",
+      "method": "Tumis daun bawang dan bawang putih hingga wangi. Masukkan kaldu dan masak hingga mendidih.",
+      "cookingTime": "20 minutes",
+      "ingredients": [
+        "1 sdm minyak untuk menumis",
+        "2 sdm irisan daun bawang"
+      ],
+      "id": "z87aqUC"
+    },
+    {
+      "title": "Nasi Goreng",
+      "method": "Di Tumis",
+      "coockingTime": "10 minute",
+      "ingredients": [
+        "Nasi",
+        "Garam"
+      ],
+      "id": "jkJH8aB"
+    },
+    {
+      "title": "Bakwan",
+      "method": "di goreng",
+      "coockingTime": "5 minute",
+      "ingredients": [
+        "Tepung",
+        "Wortel",
+        "Kol"
+      ],
+      "id": "qUU2Otc"
+    }
+  ]
+}
